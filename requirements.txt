@@ -1,3 +1,9 @@
 streamlit
 pandas
 geopandas
+folium
+os
+numpy
+matplotlib.pyplot
+matplotlib.cm 
+matplotlib.colors 
