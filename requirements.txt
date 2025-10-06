@@ -3,4 +3,4 @@ pandas
 geopandas
 folium
 numpy
-
+streamlit-folium
